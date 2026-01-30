@@ -22,7 +22,7 @@ __________________
 
 1) Клонируйте репозиторий: bash git clone https://github.com/Joraslav111/Website_ParalaxExample.git
 
-2) Откройте paralax.html в браузере или используйте Live Server в VS Code.
+2) Откройте index.html в браузере или используйте Live Server в VS Code.
 
 
 Для удобства все использованные библиотеки, шрифты и изображения необходимые для создания сайта загруженны в репозиторий
